@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.exe
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.deps.json
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.dll
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.pdb
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.dll
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\3 - CriandoVariaveisPontoFlutuante.dll
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.pdb
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3 - CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\3 - CriandoVariaveisPontoFlutuante.dll
