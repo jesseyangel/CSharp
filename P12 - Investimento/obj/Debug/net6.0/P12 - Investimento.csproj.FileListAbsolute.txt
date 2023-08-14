@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.exe
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.deps.json
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.dll
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.pdb
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.dll
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\refint\P12 - Investimento.dll
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.pdb
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\ref\P12 - Investimento.dll

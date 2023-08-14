@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\bin\Debug\net6.0\P13 - EncadearFor.exe
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\bin\Debug\net6.0\P13 - EncadearFor.deps.json
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\bin\Debug\net6.0\P13 - EncadearFor.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\bin\Debug\net6.0\P13 - EncadearFor.dll
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\bin\Debug\net6.0\P13 - EncadearFor.pdb
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.dll
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\refint\P13 - EncadearFor.dll
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.pdb
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\P13 - EncadearFor.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\P13 - EncadearFor\obj\Debug\net6.0\ref\P13 - EncadearFor.dll
