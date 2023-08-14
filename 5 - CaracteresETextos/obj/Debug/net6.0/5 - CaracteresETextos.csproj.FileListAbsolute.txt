@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\bin\Debug\net6.0\5 - CaracteresETextos.exe
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\bin\Debug\net6.0\5 - CaracteresETextos.deps.json
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\bin\Debug\net6.0\5 - CaracteresETextos.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\bin\Debug\net6.0\5 - CaracteresETextos.dll
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\bin\Debug\net6.0\5 - CaracteresETextos.pdb
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.dll
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\refint\5 - CaracteresETextos.dll
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.pdb
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\5 - CaracteresETextos.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\5 - CaracteresETextos\obj\Debug\net6.0\ref\5 - CaracteresETextos.dll

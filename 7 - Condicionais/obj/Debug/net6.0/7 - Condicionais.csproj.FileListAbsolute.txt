@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\bin\Debug\net6.0\7 - Condicionais.exe
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\bin\Debug\net6.0\7 - Condicionais.deps.json
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\bin\Debug\net6.0\7 - Condicionais.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\bin\Debug\net6.0\7 - Condicionais.dll
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\bin\Debug\net6.0\7 - Condicionais.pdb
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.dll
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\refint\7 - Condicionais.dll
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.pdb
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\7 - Condicionais.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\7 - Condicionais\obj\Debug\net6.0\ref\7 - Condicionais.dll
