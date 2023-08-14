@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\bin\Debug\net6.0\8 - Condicoes2.exe
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\bin\Debug\net6.0\8 - Condicoes2.deps.json
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\bin\Debug\net6.0\8 - Condicoes2.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\bin\Debug\net6.0\8 - Condicoes2.dll
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\bin\Debug\net6.0\8 - Condicoes2.pdb
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.dll
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\refint\8 - Condicoes2.dll
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.pdb
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\8 - Condicoes2.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\8 - Condicoes2\obj\Debug\net6.0\ref\8 - Condicoes2.dll

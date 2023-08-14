@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\bin\Debug\net6.0\CalculadoraCSharp.exe
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\bin\Debug\net6.0\CalculadoraCSharp.deps.json
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\bin\Debug\net6.0\CalculadoraCSharp.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\bin\Debug\net6.0\CalculadoraCSharp.dll
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\bin\Debug\net6.0\CalculadoraCSharp.pdb
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.dll
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\refint\CalculadoraCSharp.dll
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.pdb
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\CalculadoraCSharp.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\CalculadoraCSharp\obj\Debug\net6.0\ref\CalculadoraCSharp.dll
