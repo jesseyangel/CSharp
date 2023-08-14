@@ -1,0 +1,15 @@
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\bin\Debug\net6.0\Testes e pratica.exe
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\bin\Debug\net6.0\Testes e pratica.deps.json
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\bin\Debug\net6.0\Testes e pratica.runtimeconfig.json
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\bin\Debug\net6.0\Testes e pratica.dll
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\bin\Debug\net6.0\Testes e pratica.pdb
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.csproj.AssemblyReference.cache
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.AssemblyInfoInputs.cache
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.AssemblyInfo.cs
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.csproj.CoreCompileInputs.cache
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.dll
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\refint\Testes e pratica.dll
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.pdb
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\Testes e pratica.genruntimeconfig.cache
+E:\VisualProjects\AprendendoCSharp\Testes e pratica\obj\Debug\net6.0\ref\Testes e pratica.dll
